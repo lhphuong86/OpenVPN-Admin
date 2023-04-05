@@ -133,7 +133,7 @@ if(isset($_POST['authenticator_get'], $_POST['authenticator_username'], $_POST['
     <link rel="stylesheet" href="vendor/bootstrap-table/dist/extensions/filter-control/bootstrap-table-filter-control.css" type="text/css" />
     <link rel="stylesheet" href="css/index.css" type="text/css" />
 
-    <link rel="icon" type="image/png" href="css/icon.png">
+    <link rel="icon" type="image/png" href="css/icon.jpg">
   </head>
   <body class='container-fluid'>
   <?php
